@@ -19,4 +19,3 @@ if __name__ == "__main__":
     result_mul = obj.multiply(argument_1, argument_2)
     print("Сумма двух целочисленных аргументов равна: ", result_sum,
           "\nПроизведение двух целочисленных аргуметов равна: " ,result_mul)
-    
