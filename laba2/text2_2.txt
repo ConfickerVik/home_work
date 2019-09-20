@@ -1,0 +1,19 @@
+public class Editor {
+    public Ringleader events;
+	public Traitor arrest;
+
+    public Editor() {
+        this.events = new Ringleader("По коням! Грабим банк!", "Вы арестованы!");
+		this.arrest = new Traitor ("Вы арестованы!");
+    }
+
+	public void SendMessage () {
+		System.out.println ("Главарь банды:");
+		System.out.println ("По коням! Грабим банк!");
+		events.notify("По коням! Грабим банк!");
+	}
+	
+	public void Attention () {
+		arrest.notify("Вы арестованы!");
+	}
+}
