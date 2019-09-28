@@ -2,7 +2,7 @@ import socket
 import random
 
 
-def getstr():
+def getstr(data):
     get = ['Салам алейкум','Привіт','Dobry den','Konnichi wa','Здаров','Guten Tag']
     return data + random.choice(get)
 
