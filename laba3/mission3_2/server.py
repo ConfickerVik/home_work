@@ -3,7 +3,7 @@ import random
 
 
 def getstr():
-    answer = ['Салам алейкум','Привіт','Dobry den','Konnichi wa','Здаров','Guten Tag']
+    get = ['Салам алейкум','Привіт','Dobry den','Konnichi wa','Здаров','Guten Tag']
     return data + random.choice(get)
 
 sock = socket.socket()
