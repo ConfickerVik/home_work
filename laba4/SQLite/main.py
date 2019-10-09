@@ -45,6 +45,9 @@ if __name__ == '__main__':
         print("Ошибочка)")
         sys.exit(0)
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> origin/master
