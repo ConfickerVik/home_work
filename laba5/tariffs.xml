@@ -1,4 +1,4 @@
-<Tarrisf>
+<Tariffs>
     <Name name="Анлим">
         <OperatorName>Beeline</OperatorName>
         <Payroll>250</Payroll>>
@@ -119,4 +119,4 @@
             <TarrifConnectionFee>0</TarrifConnectionFee>
         </Parametrs>
     </Name>
-</Tarrisf>
+</Tariffs>
