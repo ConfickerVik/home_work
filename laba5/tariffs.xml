@@ -1,0 +1,122 @@
+<Tarrisf>
+    <Name name="Анлим">
+        <OperatorName>Beeline</OperatorName>
+        <Payroll>250</Payroll>>
+        <CallPrices>
+            <Inside>0,25</Inside>
+            <Outside>2,5</Outside>
+            <Stationary>---</Stationary>
+        </CallPrices>
+        <SMSPrice>2,5</SMSPrice>
+        <Parametrs>
+            <FavoriteNumber>No</FavoriteNumber>
+            <Tariffication>By the day</Tariffication>
+            <TarrifConnectionFee>0</TarrifConnectionFee>
+        </Parametrs>
+    </Name>
+    <Name name="Супер Анлим">
+        <OperatorName>Beeline</OperatorName>
+        <Payroll>400</Payroll>>
+        <CallPrices>
+            <Inside>0,25</Inside>
+            <Outside>2,5</Outside>
+            <Stationary>---</Stationary>
+        </CallPrices>
+        <SMSPrice>2,5</SMSPrice>
+        <Parametrs>
+            <FavoriteNumber>No</FavoriteNumber>
+            <Tariffication>By the day</Tariffication>
+            <TarrifConnectionFee>0</TarrifConnectionFee>
+        </Parametrs>
+    </Name>
+    <Name name="Мой онлайн+">
+        <OperatorName>Tele2</OperatorName>
+        <Payroll>300</Payroll>>
+        <CallPrices>
+            <Inside>1,95</Inside>
+            <Outside>1,95</Outside>
+            <Stationary>---</Stationary>
+        </CallPrices>
+        <SMSPrice>1,95</SMSPrice>
+        <Parametrs>
+            <FavoriteNumber>No</FavoriteNumber>
+            <Tariffication>Сontinually</Tariffication>
+            <TarrifConnectionFee>0</TarrifConnectionFee>
+        </Parametrs>
+    </Name>
+    <Name name="Мой онлайн">
+        <OperatorName>Tele2</OperatorName>
+        <Payroll>200</Payroll>
+        <CallPrices>
+            <Inside>1,95</Inside>
+            <Outside>1,95</Outside>
+            <Stationary>---</Stationary>
+        </CallPrices>
+        <SMSPrice>1,95</SMSPrice>
+        <Parametrs>
+            <FavoriteNumber>No</FavoriteNumber>
+            <Tariffication>Сontinually</Tariffication>
+            <TarrifConnectionFee>0</TarrifConnectionFee>
+        </Parametrs>
+    </Name>
+    <Name name="Мой Smart">
+        <OperatorName>MTS</OperatorName>
+        <Payroll>250</Payroll>>
+        <CallPrices>
+            <Inside>0</Inside>
+            <Outside>3</Outside>
+            <Stationary>---</Stationary>
+        </CallPrices>
+        <SMSPrice>3</SMSPrice>
+        <Parametrs>
+            <FavoriteNumber>No</FavoriteNumber>
+            <Tariffication>Сontinually</Tariffication>
+            <TarrifConnectionFee>0</TarrifConnectionFee>
+        </Parametrs>
+    </Name>
+    <Name name="Тарифище">
+        <OperatorName>MTS</OperatorName>
+        <Payroll>585</Payroll>>
+        <CallPrices>
+            <Inside>0</Inside>
+            <Outside>1,5</Outside>
+            <Stationary>---</Stationary>
+        </CallPrices>
+        <SMSPrice>2</SMSPrice>
+        <Parametrs>
+            <FavoriteNumber>No</FavoriteNumber>
+            <Tariffication>Сontinually</Tariffication>
+            <TarrifConnectionFee>0</TarrifConnectionFee>
+        </Parametrs>
+    </Name>
+    <Name name="Включайся! Смотри">
+        <OperatorName>Megafon</OperatorName>
+        <Payroll>800</Payroll>>
+        <CallPrices>
+            <Inside>0</Inside>
+            <Outside>2,2</Outside>
+            <Stationary>---</Stationary>
+        </CallPrices>
+        <SMSPrice>2,2</SMSPrice>
+        <Parametrs>
+            <FavoriteNumber>No</FavoriteNumber>
+            <Tariffication>Сontinually</Tariffication>
+            <TarrifConnectionFee>0</TarrifConnectionFee>
+        </Parametrs>
+    </Name>
+    <Name name="Включайся! Общайся">
+        <OperatorName>Megafon</OperatorName>
+        <Payroll>350</Payroll>>
+        <CallPrices>
+            <Inside>0</Inside>
+            <Outside>1,8</Outside>
+            <Stationary>---</Stationary>
+        </CallPrices>
+        <SMSPrice>2,2</SMSPrice>
+        <Parametrs>
+            <FavoriteNumber>No</FavoriteNumber>
+            <Tariffication>Сontinually</Tariffication>
+            <TarrifConnectionFee>0</TarrifConnectionFee>
+        </Parametrs>
+    </Name>
+</Tarrisf>
