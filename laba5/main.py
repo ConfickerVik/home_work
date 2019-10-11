@@ -1,15 +1,20 @@
-from laba5.validate import Valid
+from laba5.functions.validate import Valid
 from laba5.parsers.DOM import DOMParser
 from laba5.parsers.SAX import SAXParser
+from laba5.functions.XSL import XSLhtml
 
 while True:
     path_file_xml = input("\nВведите путь до XML-файла: ")
     path_file_xsd = input("\nВведите путь до XSD-файла: ")
+    path_file_xsl = input("\nВведите путь до XSL-файла: ")
 
     doc = ''
     validate = Valid()
     doc = validate.xmlCorrect(doc, path_file_xml)
     resultValid = validate.xsdValid(doc, path_file_xsd)
+
+    xsl = XSLhtml()
+    xsl.translate(path_file_xml, path_file_xsl)
 
     if resultValid is True:
         print("\nРеализованные парсеры:\n"
