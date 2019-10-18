@@ -1,0 +1,28 @@
+<schedule>
+    <classes>
+        <discipline>
+            <name>Программная инженерия</name>
+            <weekday>Вторник</weekday>
+            <audience>Д514</audience>
+        </discipline>
+        <teacher>
+            <fullname>Ощепков Виктор Анатольевич</fullname>
+            <disciplineteacher>Программная инженерия</disciplineteacher>
+            <countdiscipline>1</countdiscipline>
+            <countstudent>15</countstudent>
+        </teacher>
+    </classes>
+    <classes>
+        <discipline>
+            <name>Конструирование ПО</name>
+            <weekday>Суббота</weekday>
+            <audience>Д507</audience>
+        </discipline>
+        <teacher>
+            <fullname>Курганская Ольга Викторовна</fullname>
+            <disciplineteacher>Конструирование ПО</disciplineteacher>
+            <countdiscipline>1</countdiscipline>
+            <countstudent>17</countstudent>
+        </teacher>
+    </classes>
+</schedule>
