@@ -40,9 +40,3 @@ class Request:
     def fifth_request(self, curs):
         sql = ""
         curs.execute(sql)
-<<<<<<< HEAD
-        return curs.fetchall()
-=======
-        return curs.fetchall()
-        
->>>>>>> origin/master

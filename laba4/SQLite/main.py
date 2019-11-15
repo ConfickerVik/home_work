@@ -44,10 +44,3 @@ if __name__ == '__main__':
     else:
         print("Ошибочка)")
         sys.exit(0)
-
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> origin/master
