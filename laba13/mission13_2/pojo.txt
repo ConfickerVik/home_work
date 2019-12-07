@@ -1,0 +1,1 @@
+Class Pojo [ productID = 12345 , Year = 2019 , Month = July ]
